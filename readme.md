@@ -97,7 +97,7 @@ $ echo $STATUS
 </a>
 <img src="https://img.shields.io/badge/Discord-%40HariSaran__TG-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
 <a href="http://aqro.in/">
-  <img src="https://img.shields.io/badge/Portfolio-aqro.in-FF5722?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
+  <img src="https://img.shields.io/badge/company-aqro.in-FF5722?style=for-the-badge&logo=googlechrome&logoColor=white" alt="company"/>
 </a>
 
 </div>
@@ -183,8 +183,8 @@ An **e-learning platform** crafted in Python — built to make learning more acc
 </td>
 <td width="50%" valign="top">
 
-### 💻 [terminal&#8209;portfolio](https://github.com/NambuHarisaran/terminal-portfolio)
-A slick, interactive **terminal-themed portfolio** — type commands to explore who I am. Dev aesthetic to the core.
+### 💻 [terminal&#8209;company](https://github.com/NambuHarisaran/terminal-company)
+A slick, interactive **terminal-themed company** — type commands to explore who I am. Dev aesthetic to the core.
 
 `HTML` `CSS` `JavaScript`
 
