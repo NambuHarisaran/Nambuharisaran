@@ -57,7 +57,7 @@ $ echo $STATUS
 - 🚀 &nbsp;Building ideas in **tech & startups**
 - 🌱 &nbsp;Exploring **AI / ML** and building real-world apps
 - 💬 &nbsp;Ask me about **Flutter**, **Django**, or **building MVPs**
-- 🌐 &nbsp;Portfolio → **[itzhari.me](http://itzhari.me)**
+- 🌐 &nbsp;company → **[aqro.in](http://aqro.in)**
 - ⚡ &nbsp;Fun fact: I love taking a **3 AM idea → working prototype**
 - 🤝 &nbsp;Always open to **collaborations & innovative projects**
 
@@ -96,8 +96,8 @@ $ echo $STATUS
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
 </a>
 <img src="https://img.shields.io/badge/Discord-%40HariSaran__TG-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
-<a href="http://itzhari.me">
-  <img src="https://img.shields.io/badge/Portfolio-itzhari.me-FF5722?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
+<a href="http://aqro.in/">
+  <img src="https://img.shields.io/badge/Portfolio-aqro.in-FF5722?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
 </a>
 
 </div>
