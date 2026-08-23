@@ -11505,15 +11505,18 @@
       "widgetId": "asciiprofile-info",
       "name": "Asciiprofile-info Widget",
       "position": {
-        "x": 330,
-        "y": 42
+        "x": 336,
+        "y": 40
       },
       "size": {
-        "width": 456,
+        "width": 408,
         "height": 312
       },
       "config": {
-        "accentColor": "#ffa657"
+        "accentColor": "#ffa657",
+        "staticMode": true,
+        "showNow": false,
+        "lockAspectRatio": true
       },
       "locked": false,
       "visible": true,
