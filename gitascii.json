@@ -11543,22 +11543,18 @@
       "instanceId": "widget_1787479756524_2"
     },
     {
-      "instanceId": "widget_1787479841041",
-      "widgetId": "readme-quotes",
-      "name": "Readme-quotes Widget",
+      "instanceId": "widget_1787480206166",
+      "widgetId": "github-readme-stats",
+      "name": "Github-readme-stats Widget",
       "position": {
-        "x": 150,
+        "x": 0,
         "y": 624
       },
       "size": {
-        "width": 500,
+        "width": 800,
         "height": 210
       },
-      "config": {
-        "quoteType": "random",
-        "customTitle": "",
-        "theme": "catppuccin"
-      },
+      "config": {},
       "locked": false,
       "visible": true,
       "zIndex": 4
