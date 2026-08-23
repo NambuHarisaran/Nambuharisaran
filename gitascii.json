@@ -11535,7 +11535,17 @@
         "height": 240
       },
       "config": {
-        "accentColor": "#ffa657"
+        "accentColor": "#ffa657",
+        "paletteIndex": 3,
+        "palette": [
+          "#161b22",
+          "#450a0a",
+          "#7f1d1d",
+          "#b91c1c",
+          "#ef4444",
+          "#f87171"
+        ],
+        "staticMode": false
       },
       "locked": false,
       "visible": true,
@@ -11569,7 +11579,8 @@
     "borderRadius": 0,
     "padding": 24,
     "themeMode": "dark",
-    "templateStyle": "ascii_native"
+    "templateStyle": "ascii_native",
+    "transparentBackground": true
   },
   "templateId": "ascii_native",
   "profileSlug": "default"
