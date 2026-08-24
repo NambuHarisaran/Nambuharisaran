@@ -11531,7 +11531,7 @@
         "y": 368
       },
       "size": {
-        "width": 704,
+        "width": 688,
         "height": 240
       },
       "config": {
@@ -11557,11 +11557,11 @@
       "widgetId": "github-readme-stats",
       "name": "Github-readme-stats Widget",
       "position": {
-        "x": 0,
+        "x": 48,
         "y": 624
       },
       "size": {
-        "width": 800,
+        "width": 696,
         "height": 210
       },
       "config": {},
